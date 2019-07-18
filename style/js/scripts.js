@@ -296,7 +296,7 @@ $(document).ready(function() {
     /*	REVOLUTION
 	/*-----------------------------------------------------------------------------------*/
     $('.tp-fullscreen').revolution({
-        delay: 3000,
+        delay: 4000,
         startwidth: 1170,
         startheight: 750,
         hideThumbs: 200,
@@ -307,7 +307,7 @@ $(document).ready(function() {
         soloArrowRightHOffset: 0
     });
     $('.tp-fullwidth').revolution({
-        delay: 3000,
+        delay: 4000,
         startwidth: 1170,
         startheight: 650,
         hideThumbs: 200,
@@ -318,7 +318,7 @@ $(document).ready(function() {
         soloArrowRightHOffset: 0
     });
     $('.tp-banner').revolution({
-        delay: 3000,
+        delay: 4000,
         startwidth: 1170,
         startheight: 550,
         hideThumbs: 200,
